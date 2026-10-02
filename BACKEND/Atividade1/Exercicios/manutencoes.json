@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "maquina": "Torno CNC",
+    "setor": "Usinagem",
+    "horasUso": 850,
+    "limiteManutencao": 1000,
+    "manutencaoRealizada": false
+  },
+  {
+    "id": 2,
+    "maquina": "Prensa 100T",
+    "setor": "Estamparia",
+    "horasUso": 1200,
+    "limiteManutencao": 1000,
+    "manutencaoRealizada": false
+  },
+  {
+    "id": 3,
+    "maquina": "Furadeira Industrial",
+    "setor": "Montagem",
+    "horasUso": 400,
+    "limiteManutencao": 800,
+    "manutencaoRealizada": false
+  },
+  {
+    "id": 4,
+    "maquina": "Esteira Transportadora",
+    "setor": "Logística",
+    "horasUso": 950,
+    "limiteManutencao": 1000,
+    "manutencaoRealizada": false
+  },
+  {
+    "id": 5,
+    "maquina": "Robô de Solda",
+    "setor": "Soldagem",
+    "horasUso": 1500,
+    "limiteManutencao": 1500,
+    "manutencaoRealizada": false
+  }
+]
